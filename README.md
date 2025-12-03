@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-👋 About Me
-=================
 Hi, I'm Niclas, an electronics technician with a strong passion for software development.
 I’m from Germany and currently focus on modern web technologies — especially Angular (v19), TypeScript, PrimeNG, Tailwind CSS, and building clean, user-friendly interfaces.
 
 ## 🛠️ Tech Stack
-*************
+
 - Frontend: Angular, TypeScript, JavaScript, HTML, S/CSS, PrimeNG, Tailwind
 
 - Tools & Workflow: Git, GitHub, VS Code, REST APIs & Gitea for some private Company Repositories
@@ -14,7 +12,7 @@ I’m from Germany and currently focus on modern web technologies — especially
 - Hardware & Electronics: Solid background in electronics, hands-on experience with building and troubleshooting hardware
 
 ## 💡 What Defines Me
--------------------------
+
 
 - A strong blend of hardware expertise and software engineering
 
@@ -23,7 +21,7 @@ I’m from Germany and currently focus on modern web technologies — especially
 - Always curious, always learning, and always experimenting with new technologies
 
 ## 🚀 What I'm Working On
-___
+
 
 I'm currently developing a storage and inventory management system for a company — a real-world project where I’m implementing modern Angular patterns, building custom UI components, and designing a clean, efficient workflow for managing warehouse data and processes.
 
