@@ -9,7 +9,7 @@ I’m from Germany and currently focus on modern web technologies — especially
 
 - Frontend: Angular, TypeScript, JavaScript, HTML, S/CSS, PrimeNG, Tailwind
 
-- Tools & Workflow: Git, GitHub, VS Code, REST APIs & Gitea for some private Company Repositorys
+- Tools & Workflow: Git, GitHub, VS Code, REST APIs & Gitea for some private Company Repositories
 
 - Hardware & Electronics: Solid background in electronics, hands-on experience with building and troubleshooting hardware
 
